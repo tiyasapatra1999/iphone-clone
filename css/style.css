@@ -1,0 +1,211 @@
+body{
+	background-color: #f4f4f4;
+	color: #555;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 16px;
+	margin: 0;
+}
+.container{
+	width: 100%;
+	margin: auto;
+	overflow: hidden;
+}
+.container ul li a {
+	color: black;
+}
+#main-header{
+	background-color: #333;
+	color: white;
+	text-align: center;
+}
+
+#main{
+	background-color: #151515;
+	font-size:100%;
+	padding-left: 50px;
+	color: white;
+	text-align: center;
+	padding-top: 50px;
+}
+#main h1 {
+	margin-top: 0;
+}
+#navbar{
+	padding: 0;
+	list-style: none;
+}
+#navbar li{
+	display: inline;
+}
+#navbar a{
+	color:black(155, 237, 100);
+	text-decoration: none;
+	font-size: 18px;
+	padding-right: 20px;
+	background-color:aliceblue;
+	 
+}
+#showcase{
+	background-image: url('../images/pro15_1.jpg');
+	height: 100vh;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+#showcase h1{
+	color:white;
+	font-size:30 px;
+	line-height: 1.6em;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.buy-option {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+	justify-content: end;
+	height: 87%;
+	/* color:; */
+	
+}
+#showcase h3{
+	color: white;
+	padding: 20px;
+	margin-bottom: 25px;
+}
+.btn-container button {
+    height: 50px;
+    width: 100px;
+    font-size: 22px;
+	font-size: 20px;
+	
+	
+}
+.btn-container button:hover{
+	background: rgb(13, 13, 20);
+	color: #f4f4f4;
+}
+.cart {
+	margin-left: 15px;
+	                                                              
+}
+.icon{
+	float:right;
+	padding-right: 20px;
+
+}
+#gallery {
+	background-color: #151515;
+	padding: 0 50PX;
+}
+.gallery-heading{
+	display: flex;
+	justify-content: space-between;	
+}
+.gallery-container {
+	background: #000000;
+}
+.gallery-content{
+	display: flex;	
+}
+.gallery-content-1, .gallery-content-2{
+	width: 50%;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+.button-new{
+	font-size: 18px;
+	color: orange;
+}
+.container-1{
+	display: flex;
+	justify-content: center;
+	margin: 20px;
+
+}
+.container-2{
+	font-size: 35px;
+	border-color: antiquewhite;
+
+}
+.gallery-divider{
+	height: 1px;
+	width: 70%;
+	margin-bottom: 60px;
+}
+.photo-container{
+	display: flex;
+
+
+}
+.row-1,.row-2{
+	width: 50%;
+	text-align: center;
+
+}
+.feature-container{
+	display: flex;
+	justify-content: space-around;
+	padding-left: 20px;
+	padding-right: 30px;
+}
+.feature-column p{
+	width: 60%;
+	margin: 50px auto;
+	color: gray;
+	
+}
+.feature-column p span{
+	font-size: 20px;
+	color: white;
+	text-decoration: dotted;
+}
+.gallery-content-1{
+	height: 30px;
+    margin-left: 10px;
+    margin-top: 9px;
+    padding: -33px;
+    font-size: 14px;
+	
+}
+
+.container-2 button {
+	height: 40px;
+	margin-left: 10px;
+	font-size: 15px;
+
+}
+.container-1-btn {
+	margin-left: 10px;
+	font-size: 15px;
+}
+.last-footer{
+	width: 50%;
+}
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
